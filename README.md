@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Jorge!
-I'm a Web Development student from Talavera de la Reina, always eager to learn, build, and improve. I love tinkering with web technologies — or anything that can be programmed, really. <br><br>Looking to collaborate on something interesting? Hit me up — I'm open to ideas and ready to grow.
+I’m a Web Development student from Talavera de la Reina (Spain). Always curious, building and constantly learning. I love diving into web technologies and anything related to programming.
+
+I’m looking to collaborate on cool meaningful projects. If you’ve got something in mind or just want to connect, don’t hesitate to reach out. I’m open to ideas, feedback, and good conversations - basically anything that helps us grow!
 
 <a href="https://linkedin.com/in/jorge-garcía-villaverde-332491257" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,8 +30,7 @@ I'm a Web Development student from Talavera de la Reina, always eager to learn, 
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng2bmlhNTNnanZ3YTY4Ynl5ZWV2cHM1NXZ0cHY4MjF1MHA3d3d2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif" width="200" alt="Thumbs up gif"/>
 
-_thank you for your time reading one more readme_  
-_(seriously, if you have a project in mind, don’t hesitate to contact me!)_
+_Thanks for stopping by, and I’m looking forward to connecting with you!_  
 
 <a href="https://linkedin.com/in/jorge-garcía-villaverde-332491257" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
